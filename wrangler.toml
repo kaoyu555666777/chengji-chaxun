@@ -1,0 +1,8 @@
+name = "chengji-chaxun"
+main = "worker.js"
+compatibility_date = "2025-06-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "points"
+database_id = "70aa389c-f0cd-49fc-8a6a-54247165ebd0"
